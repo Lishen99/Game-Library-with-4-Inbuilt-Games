@@ -15,7 +15,7 @@ This project is a comprehensive Game Library. It bundles four interactive games 
 
 **Author:** Lishen Madusha Amaraweera  
 
-This project demonstrates advanced Swing and Java2D techniques. It uses multiple Swing components—such as JButtons, JLabels, JPanels, and custom dialogs—as well as custom painting, gradient effects, and various event listeners including MouseListeners, KeyListeners, and ActionListeners. The project meets the course requirements for the use of Swing, custom 2D graphics, and event listeners.
+This project demonstrates advanced Swing and Java2D techniques. It uses multiple Swing components—such as JButtons, JLabels, JPanels, and custom dialogs—as well as custom painting, gradient effects, and various event listeners including MouseListeners, KeyListeners, and ActionListeners.
 
 ## Games Included
 
