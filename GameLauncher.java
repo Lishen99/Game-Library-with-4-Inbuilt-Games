@@ -85,6 +85,7 @@ public class GameLauncher extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(800, 600);
         setLocationRelativeTo(null);
+        setResizable(false);
 
         // Use GradientPanel as the main container panel.
         JPanel mainPanel = new GradientPanel();

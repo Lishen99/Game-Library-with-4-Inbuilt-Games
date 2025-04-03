@@ -11,6 +11,7 @@ public class MemorySequenceFrame extends JFrame {
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setSize(600, 600);
         setLocationRelativeTo(null);
+        setResizable(false);
         add(new MemorySequencePanel());
         
         // When the Memory Sequence frame is closing, reopen the Game Launcher.
